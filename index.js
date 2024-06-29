@@ -671,6 +671,8 @@ const data = [
 ]
 
 app.get("/:code", (req, res) => {
+  // const jsonString = fs.readFileSync("./syllabus.json", "utf-8");
+  // const data = JSON.parse(jsonString);
   res.json(data.filter((subj) => subj.course_code == req.params.code));
 });
 
