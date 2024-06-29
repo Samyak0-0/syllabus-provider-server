@@ -1,6 +1,6 @@
 import e from "express";
 import fs from "fs";
-// import data from "./syllabus.json" assert { type: "json" }
+
 
 const app = e();
 const port = 3000;
