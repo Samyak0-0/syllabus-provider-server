@@ -523,7 +523,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MATH-101",
+    "course_code": "MATH 101",
     "topics": [
       "Increments",
       "Limits and continuity",
@@ -534,7 +534,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MATH-104",
+    "course_code": "MATH 104",
     "topics": [
       "Coordinates Systems",
       "Functions of several variables and Their Derivatives",
@@ -547,7 +547,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MATH-207",
+    "course_code": "MATH 207",
     "topics": [
       "First Order Differential Equations",
       "Linear Second Order Differential Equations",
@@ -558,7 +558,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MATH-208",
+    "course_code": "MATH 208",
     "topics": [
       "Introduction to Statistics and Data Description",
       "Probability",
@@ -574,7 +574,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MCSC-201",
+    "course_code": "MCSC 201",
     "topics": [
       "Fundamentals",
       "Logic",
@@ -586,7 +586,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MCSC-202",
+    "course_code": "MCSC 202",
     "topics": [
       "Basic introduction of Computer programming language",
       "Errors in numerical computation",
@@ -599,7 +599,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MGTS-301",
+    "course_code": "MGTS 301",
     "topics": [
       "Introduction to Engineering Economy",
       "Cost Concepts and Design Economics",
@@ -612,7 +612,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MGTS-402",
+    "course_code": "MGTS 402",
     "topics": [
       "The Challenge of Entrepreneurship",
       "Inside the Entrepreneurial Mind: From Ideas to Reality",
@@ -625,7 +625,7 @@ const data = [
     ]
   },
   {
-    "course_code": "MGTS-403",
+    "course_code": "MGTS 403",
     "topics": [
       "Introduction to Engineering Management",
       "Historical Development of Engineering Management",
@@ -637,7 +637,7 @@ const data = [
     ]
   },
   {
-    "course_code": "PHYS-101",
+    "course_code": "PHYS 101",
     "topics": [
       "Mechanics",
       "Rotational Dynamics",
@@ -653,7 +653,7 @@ const data = [
     ]
   },
   {
-    "course_code": "PHYS-102",
+    "course_code": "PHYS 102",
     "topics": [
       "Electricity and Magnetism",
       "Vector Analysis",
